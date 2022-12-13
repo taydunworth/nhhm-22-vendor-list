@@ -717,6 +717,28 @@ const vendors = [
       facebook: "https://www.facebook.com/acadiadesignco",
       instagram: "https://www.instagram.com/acadia.designco",
     },
+    {
+      name: "Graceful Leo Designs",
+      id: 96,
+      description: "Handmade earrings, keychains, wall decor and other miscellaneous gifts and trinkets.",
+      website: "https://www.gracefulleodesigns.com",
+      facebook: "https://www.facebook.com/gracefulleodesigns",
+      instagram: "https://www.instagram.com/gracefulleodesigns",
+    },
+    {
+      name: "Simply Stitched WI",
+      id: 97,
+      description: "I make headbands and scrunchies!",
+      website: "https://www.etsy.com/shop/SimplyStitchedWisco",
+      facebook: "https://www.facebook.com/simplystitchedwi",
+      instagram: "https://www.instagram.com/simplystitchedwi",
+    },
+    {
+      name: "by lisa artistry",
+      id: 98,
+      description: "hand painted porch boards & seasonal Woodwork. Hot Cocoa Balls, Aprons, pillowcases, painting kits",
+      facebook: "https://www.facebook.com/lisabourg3361",
+    },
   ]
 
     const cardLayoutStyle = {
