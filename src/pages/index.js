@@ -3,8 +3,8 @@ import VendorCard from "../components/vendorCard";
 
 const pageStyles = {
   color: "#223440",
-  padding: "60px 60px 60px 0px",
-  width: "calc(80% - 60px)",
+  padding: "60px",
+  width: "calc(80% - 70px)",
   margin: "0 auto",
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
