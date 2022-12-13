@@ -287,7 +287,8 @@ const vendors = [
       name: "Designed in Ink",
       id: 38,
       description: "Sublimation tumblers, T-shirts, keychains, car coasters, glass tumbler, kids cups, sippy cups and epoxy pens. We take custom orders.",
-      facebook: "https://www.facebook.com/DesignedInInk.co",
+      website: "http://designedinink.co/",
+      facebook: "https://www.facebook.com/groups/872116437256053/user/100077378561867/",
     },
     {
       name: "The Fabled Raven",
