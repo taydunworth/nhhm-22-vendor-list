@@ -688,7 +688,34 @@ const vendors = [
       website: "https://www.fairyfirecandles.com",
       facebook: "https://www.facebook.com/fairyfirecandles",
       instagram: "https://www.instagram.com/fairyfirecandles",
-      tiktokk: "https://www.tiktok.com/@fairyfirecandles",
+      tiktok: "https://www.tiktok.com/@fairyfirecandles",
+    },
+    {
+      name: "Southern Metalworx",
+      id: 92,
+      description: "Blacksmith & Metal Artist",
+      website: "https://www.southernmetalworx.com",
+      facebook: "https://www.facebook.com/southernmetalworx",
+      instagram: "https://www.instagram.com/southernmetalworx",
+    },
+    {
+      name: "Flutter-By",
+      id: 93,
+      description: "Inspirational and positivity t-shirts, hats and jewelry",
+    },
+    {
+      name: "Norman Creations",
+      id: 94,
+      description: "Homemade wooden,  acrylic  and cabochon jewelry as well as Keychains and bookmarks.",
+      facebook: "https://www.facebook.com/Norman-Creations-110463430440650/",
+    },
+    {
+      name: "Acadia Design Co",
+      id: 95,
+      description: "Designs created to represent mental health",
+      website: "https://www.acadiadesignnco.com",
+      facebook: "https://www.facebook.com/acadiadesignco",
+      instagram: "https://www.instagram.com/acadia.designco",
     },
   ]
 
