@@ -761,10 +761,6 @@ const vendors = [
       name: "Nanas Creations in Tn",
       id: 101,
       description: "Tumblers and homemade gifts",
-      website: "https://www.larajeandoodles.com",
-      facebook: "https://www.facebook.com/larajeandoodles",
-      instagram: "https://www.instagram.com/larajeandoodles",
-      tiktok: "https://www.tiktok.com/@larajeandoodles",
     },
   ]
 
