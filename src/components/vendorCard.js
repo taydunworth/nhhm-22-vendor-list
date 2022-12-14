@@ -762,6 +762,25 @@ const vendors = [
       id: 101,
       description: "Tumblers and homemade gifts",
     },
+    {
+      name: "Till and Prism",
+      id: 102,
+      description: "Air Plants and Sun Catchers",
+      website: "https://www.tillandprism.com/",
+      instagram: "https://www.instagram.com/tillandprism",
+    },
+    {
+      name: "B & B Design Studio",
+      id: 103,
+      description: "Car freshies",
+      facebook: "https://www.facebook.com/groups/1399686396712810/",
+    },
+    {
+      name: "Sprigs From Yesteryear",
+      id: 104,
+      description: "Rustic and Farmhouse home decor",
+      facebook: "https://www.facebook.com/people/Sprigs-From-Yesteryear",
+    },
   ]
 
     const cardLayoutStyle = {
