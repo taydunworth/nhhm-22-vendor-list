@@ -386,7 +386,7 @@ const vendors = [
       id: 50,
       description: "Embroidered and handcrafted gift items, including keychains, bookmarks, bags, etc.",
       website: "https://www.threadbent.com",
-      facebook: "https://www.facebook.com/luvthepaw/",
+      facebook: "https://www.facebook.com/threadbent/",
       instagram: "https://www.instagram.com/thread.bent",
     },
     {
