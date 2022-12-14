@@ -170,7 +170,7 @@ const vendors = [
       id: 22,
       description: "3D wood creations: forest bear, wolf, tree owl, etc.., 3D wood ornaments, vendor display stands & business card holders, and wood kids puzzles: alphabet, solar system, ASL",
       website: "https://www.firelightcreations.net",
-      facebook: "https://www.facebook.com/firelightcreationtn",
+      facebook: "https://www.facebook.com/firelightcreationstn",
     },
     {
       name: "Black Poppy Emporium",
@@ -646,7 +646,7 @@ const vendors = [
     {
       name: "CampCo Creations",
       id: 86,
-      description: "Macramé",
+      description: "Macramé hangings, macrame feather hangings, keychains, gnome Christmas ornaments",
       facebook: "https://www.facebook.com/groups/519449159537432",
     },
     {
@@ -738,6 +738,33 @@ const vendors = [
       id: 98,
       description: "hand painted porch boards & seasonal Woodwork. Hot Cocoa Balls, Aprons, pillowcases, painting kits",
       facebook: "https://www.facebook.com/lisabourg3361",
+    },
+    {
+      name: "Sugie Skin Care, LLC.",
+      id: 99,
+      description: "All natural skin care products",
+      website: "https://www.sugieskincare.com",
+      facebook: "https://www.facebook.com/sugieskincare",
+      instagram: "https://www.instagram.com/sugieskincare",
+      tiktok: "https://www.tiktok.com/@sugieskincare",
+    },
+    {
+      name: "Lara Jean Doodles",
+      id: 100,
+      description: "Illustrator, writer, freelance artist located in Clarksville TN",
+      website: "https://www.larajeandoodles.com",
+      facebook: "https://www.facebook.com/larajeandoodles",
+      instagram: "https://www.instagram.com/larajeandoodles",
+      tiktok: "https://www.tiktok.com/@larajeandoodles",
+    },
+    {
+      name: "Nanas Creations in Tn",
+      id: 101,
+      description: "Tumblers and homemade gifts",
+      website: "https://www.larajeandoodles.com",
+      facebook: "https://www.facebook.com/larajeandoodles",
+      instagram: "https://www.instagram.com/larajeandoodles",
+      tiktok: "https://www.tiktok.com/@larajeandoodles",
     },
   ]
 
