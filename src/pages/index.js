@@ -1,5 +1,5 @@
 import * as React from "react";
-import VendorCard from "../components/vendorCard";
+import VendorCardList from "../components/vendorList";
 
 const pageStyles = {
   color: "#223440",
@@ -24,7 +24,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <h1 style={headingStyles}>Nasvhille Handmade Holiday Market 2022 Vendor List</h1>
       <p style={pStyle}>Full directory of vendors from the 2022 Nashville Handmade Holiday Market hosted at Music City Center December 10-11</p>
-      <VendorCard />
+      <VendorCardList />
       <small>Questions? Reach out to <a href="mailto:hello@taydunworth.com">Taylor Dunworth</a> with any questions or comments.</small>
     </main>
   )
