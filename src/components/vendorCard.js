@@ -852,6 +852,14 @@ const vendors = [
       description: "Live Balloon Twisting, Face Painting and Balloon Gift Delivery",
       website: "https://www.treehousetoons.com/",
     },
+    {
+      name: "Little Big Dog Treats",
+      id: 115,
+      description: "All natural, organic dog treats with simple delicious ingredients that your pup will love",
+      website: "https://www.littlebigdogtreats.com",
+      facebook: "https://www.facebook.com/littlebigdogtreats",
+      instagram: "https://www.instagram.com/littlebigdogtreats",
+    },
   ]
 
     const cardLayoutStyle = {
