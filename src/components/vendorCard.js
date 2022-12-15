@@ -269,7 +269,7 @@ const vendors = [
       name: "AtoZ Creations",
       id: 35,
       description: "Screen print Clothing, Sublimated Tumblers & Mugs, Patched & Bejeweled Hats, Wall decorations, Bracelets, Mouse pads, etc.",
-      facebook: "https://www.facebook.com/AtoZCreations",
+      facebook: "https://facebook.com/groups/2666247820301814/",
     },
     {
       name: "Rachael Bee Artwork",
