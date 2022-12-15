@@ -283,6 +283,7 @@ const vendors = [
       name: "Leap Frog Co",
       id: 37,
       description: "Laser cut, hand painted wooden earrings",
+      facebook: "https://www.facebook.com/groups/1924865827652105/",
     },
     {
       name: "Designed in Ink",
