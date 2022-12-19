@@ -1,5 +1,6 @@
 import * as React from "react";
 import VendorCard from "../components/vendorCard";
+import Search from "../components/search"
 
 
 const vendors = [
@@ -788,25 +789,33 @@ const cardLayoutStyle = {
 
 
 const VendorCardList = () => {
-    const [searchTerm, setSearchTerm] = React.useState("");
+    const [searchTerm, setSearchTerm ] = React.useState("");
+    const [vendorlist, setVendorList] = React.useState(vendors);
+
+    let updateList = (term) => {
+      let byName = v => v.name.toLowerCase().includes(term.toLowerCase()) || term === ""
+
+      let filteredVendors = vendors.filter(byName)
+
+      setSearchTerm(term)
+      setVendorList(filteredVendors) 
+    }
 
     return (
       <div>
-        <input type="text" value={searchTerm} onChange={e => setSearchTerm(e.target.value)}
-        />
+
+        <Search searchTerm = {searchTerm} onChange = {updateList}/>
 
         <section style={cardLayoutStyle} id="vendor-list">
           {
-            vendors
-                .filter(vendor => vendor.name.toLowerCase().includes(searchTerm.toLowerCase()) || searchTerm === "")
-                // .filter(searched => hasSelectedCategory(searched))
-                .map(vendor => 
-                
-                    <VendorCard key={vendor.id} vendor={vendor} />
-                )
+            vendorlist.map
+            (
+              vendor => <VendorCard key={vendor.id} vendor={vendor} />
+            )
           }
         </section>
+
       </div>
     )
   }
-  export default VendorCardList
+export default VendorCardList
